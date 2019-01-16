@@ -1,5 +1,8 @@
 Tamil etymological dictionary
+
 [TamilVU](http://stream1.tamilvu.in/etytamildict/TamilDemo.aspx)
+
+Scarping script in this [repo](https://github.com/vanangamudi/tamilvu-etymdict-scraper)
 
 Contains around 400 thousand unique sense of words, and alsomt 36 percent of them are not parsed correctly. But it is already late, because I wanted to share this yesterday itself. Will keep working on this, but need help of experts.
 
