@@ -8,3 +8,9 @@ collection of datasets
   - [ ] [wikisource](https://ta.wikisource.org/s/4l2)
   - [ ] [project madurai](https://www.projectmadurai.org/pmworks.html)
 * [ ] setup for blogs and news, a perdiodical scraper (can use existing crawler)
+
+# Dictionaries
+* [ ] Scrape every dictionary
+  * [x] Winslow
+  * [x] Fabricius
+* [ ] develop quasi-schema to merge different dictionaries into one
